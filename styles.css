@@ -30,13 +30,14 @@ body {
 }
 
 .para1 {
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     padding: 2%;
     margin: 0;
 }
 
 .para2 {
+    font-weight: 400;
     font-size: 15px;
     text-align: center;
     padding: 3%;
