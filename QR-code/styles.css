@@ -1,0 +1,45 @@
+body {
+    background-color: hsl(0, 0%, 94%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.middle {
+    background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    top: 16%;
+    left: 5%;
+    height: 68%;
+    width: 90%;
+}
+
+.middle_top {
+    background-color: white;
+    position: absolute;
+    top: 22%;
+    left: 41.5%;
+    height: 56%;
+    width: 17%;
+    border-radius: 3%;
+}
+
+.qr-code {
+    padding: 3%;
+    width: 94%;
+    height: auto;
+    border-radius: 7%;
+}
+
+.para1 {
+    font-weight: 700;
+    text-align: center;
+    padding: 2%;
+    margin: 0;
+}
+
+.para2 {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    padding: 3%;
+    margin: 0;
+}
