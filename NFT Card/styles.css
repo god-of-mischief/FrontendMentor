@@ -1,0 +1,13 @@
+body {
+    background-color: hsl(0, 0%, 94%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.middle {
+    background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    top: 16%;
+    left: 5%;
+    height: 68%;
+    width: 90%;
+}
